@@ -1,0 +1,176 @@
+[
+    {
+      "id": 1,
+      "name": "Unit 1",
+      "enable": true,
+      "data": [
+        {
+          "id": 1,
+          "word": "proud",
+          "pron": "praʊd",
+          "meaning": "People who feel <i>proud</i> are happy about what they have done.",
+          "example": "She is <b>proud</b> of the picture she drew of her house.",
+          "wordAudio": "_1sec.mp3",
+          "exampleAudio": "10_0194_example.mp3",
+          "meaningAudio": "10_0194_meaning.mp3",
+          "image": "10_0194.jpg"
+        },
+        {
+          "id": 2,
+          "word": "remain",
+          "pron": "rɪˈmeɪn",
+          "meaning": "To <i>remain</i> somewhere is to stay there.",
+          "example": "My sister had to <b>remain</b> home since she was sick.",
+          "wordAudio": "_1sec.mp3",
+          "exampleAudio": "10_0195_example.mp3",
+          "meaningAudio": "10_0195_meaning.mp3",
+          "image": "10_0195.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Unit 2",
+      "enable": false,
+      "data": [
+        {
+          "id": 1,
+          "word": "agree",
+          "pron": "əˈɡriː",
+          "meaning": "say that one will do something which has been suggested by another person.",
+          "example": "she had agreed to go and see a movie with him",
+          "wordAudio": "sample.mp3",
+          "exampleAudio": "example.mp3",
+          "meaningAudio": "meaning.mp3",
+          "image": "https://www.spring.org.uk/images/thumbs-up-1.jpg"
+        },
+        {
+          "id": 2,
+          "word": "angry",
+          "pron": "ˈaŋɡri",
+          "meaning": "feeling or showing strong annoyance, displeasure, or hostility; full of anger.",
+          "example": "My parents will be angry with me if I get home late.",
+          "wordAudio": "sample.mp3",
+          "exampleAudio": "example.mp3",
+          "meaningAudio": "meaning.mp3",
+          "image": "https://www.collinsdictionary.com/images/full/anger_157245086.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Unit 2",
+      "enable": false,
+      "data": [
+        {
+          "id": 1,
+          "word": "agree",
+          "pron": "əˈɡriː",
+          "meaning": "say that one will do something which has been suggested by another person.",
+          "example": "she had agreed to go and see a movie with him",
+          "wordAudio": "sample.mp3",
+          "exampleAudio": "example.mp3",
+          "meaningAudio": "meaning.mp3",
+          "image": "https://www.spring.org.uk/images/thumbs-up-1.jpg"
+        },
+        {
+          "id": 2,
+          "word": "angry",
+          "pron": "ˈaŋɡri",
+          "meaning": "feeling or showing strong annoyance, displeasure, or hostility; full of anger.",
+          "example": "My parents will be angry with me if I get home late.",
+          "wordAudio": "sample.mp3",
+          "exampleAudio": "example.mp3",
+          "meaningAudio": "meaning.mp3",
+          "image": "https://www.collinsdictionary.com/images/full/anger_157245086.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Unit 2",
+      "enable": false,
+      "data": [
+        {
+          "id": 1,
+          "word": "agree",
+          "pron": "əˈɡriː",
+          "meaning": "say that one will do something which has been suggested by another person.",
+          "example": "she had agreed to go and see a movie with him",
+          "wordAudio": "sample.mp3",
+          "exampleAudio": "example.mp3",
+          "meaningAudio": "meaning.mp3",
+          "image": "https://www.spring.org.uk/images/thumbs-up-1.jpg"
+        },
+        {
+          "id": 2,
+          "word": "angry",
+          "pron": "ˈaŋɡri",
+          "meaning": "feeling or showing strong annoyance, displeasure, or hostility; full of anger.",
+          "example": "My parents will be angry with me if I get home late.",
+          "wordAudio": "sample.mp3",
+          "exampleAudio": "example.mp3",
+          "meaningAudio": "meaning.mp3",
+          "image": "https://www.collinsdictionary.com/images/full/anger_157245086.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Unit 2",
+      "enable": false,
+      "data": [
+        {
+          "id": 1,
+          "word": "agree",
+          "pron": "əˈɡriː",
+          "meaning": "say that one will do something which has been suggested by another person.",
+          "example": "she had agreed to go and see a movie with him",
+          "wordAudio": "sample.mp3",
+          "exampleAudio": "example.mp3",
+          "meaningAudio": "meaning.mp3",
+          "image": "https://www.spring.org.uk/images/thumbs-up-1.jpg"
+        },
+        {
+          "id": 2,
+          "word": "angry",
+          "pron": "ˈaŋɡri",
+          "meaning": "feeling or showing strong annoyance, displeasure, or hostility; full of anger.",
+          "example": "My parents will be angry with me if I get home late.",
+          "wordAudio": "sample.mp3",
+          "exampleAudio": "example.mp3",
+          "meaningAudio": "meaning.mp3",
+          "image": "https://www.collinsdictionary.com/images/full/anger_157245086.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Unit 2",
+      "enable": false,
+      "data": [
+        {
+          "id": 1,
+          "word": "agree",
+          "pron": "əˈɡriː",
+          "meaning": "say that one will do something which has been suggested by another person.",
+          "example": "she had agreed to go and see a movie with him",
+          "wordAudio": "sample.mp3",
+          "exampleAudio": "example.mp3",
+          "meaningAudio": "meaning.mp3",
+          "image": "https://www.spring.org.uk/images/thumbs-up-1.jpg"
+        },
+        {
+          "id": 2,
+          "word": "angry",
+          "pron": "ˈaŋɡri",
+          "meaning": "feeling or showing strong annoyance, displeasure, or hostility; full of anger.",
+          "example": "My parents will be angry with me if I get home late.",
+          "wordAudio": "sample.mp3",
+          "exampleAudio": "example.mp3",
+          "meaningAudio": "meaning.mp3",
+          "image": "https://www.collinsdictionary.com/images/full/anger_157245086.jpg"
+        }
+      ]
+    }
+  ]
