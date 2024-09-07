@@ -59,7 +59,7 @@
     },
     {
       "id": 3,
-      "name": "Unit 2",
+      "name": "Unit 3",
       "enable": false,
       "data": [
         {
@@ -88,7 +88,7 @@
     },
     {
       "id": 4,
-      "name": "Unit 2",
+      "name": "Unit 4",
       "enable": false,
       "data": [
         {
@@ -117,7 +117,7 @@
     },
     {
       "id": 5,
-      "name": "Unit 2",
+      "name": "Unit 5",
       "enable": false,
       "data": [
         {
@@ -146,7 +146,7 @@
     },
     {
       "id": 6,
-      "name": "Unit 2",
+      "name": "Unit 6",
       "enable": false,
       "data": [
         {
